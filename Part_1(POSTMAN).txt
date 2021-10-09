@@ -1,0 +1,96 @@
+TOKEN:
+ZDViZTc0ZDYtNzA5NS00ZGQyLTg5MTQtMzczYWJiZWZlMzNlZjk5Yzc0ZjItNjFi_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b
+
+=================================================================================================================
+ROOM: 
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYzAyODUxYjAtMjhjYy0xMWVjLWI4NzAtMWZlNzE3MGIxMjQw",
+    "title": "COMP6 API",
+    "type": "group",
+    "isLocked": false,
+    "lastActivity": "2021-10-09T06:47:20.395Z",
+    "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85ZmE5NDg3Ny04ZjY0LTQ4YmEtYjdkYi1lMmE1OWQzMmM1Y2U",
+    "created": "2021-10-09T06:47:20.395Z",
+    "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8yYmZmYWY1Yi0xZDY3LTQzNzQtOWFjNy0zY2UwMDJiMDdjM2I"
+}
+=======================================================================================================================
+ROOM MEMBERS:
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYzViMjgxYTctYTMzMC00NTM4LWE2YTctNzU3ZjMwOGE0ZjlmOmMwMjg1MWIwLTI4Y2MtMTFlYy1iODcwLTFmZTcxNzBiMTI0MA",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYzAyODUxYjAtMjhjYy0xMWVjLWI4NzAtMWZlNzE3MGIxMjQw",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9jNWIyODFhNy1hMzMwLTQ1MzgtYTZhNy03NTdmMzA4YTRmOWY",
+    "personEmail": "johnlenardbartolome39@gmail.com",
+    "personDisplayName": "John Lenard Bartolome",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9iMDc5MmVhNi1mOWYxLTRlYzMtYTE2Ny0zNzA1NjlmZTFlZDA",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T06:50:15.478Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvOTFhYjI4M2MtODJiMy00NjliLWFjOTMtY2Q2MTQyODcxY2QxOmMwMjg1MWIwLTI4Y2MtMTFlYy1iODcwLTFmZTcxNzBiMTI0MA",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYzAyODUxYjAtMjhjYy0xMWVjLWI4NzAtMWZlNzE3MGIxMjQw",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MWFiMjgzYy04MmIzLTQ2OWItYWM5My1jZDYxNDI4NzFjZDE",
+    "personEmail": "bryllekenji21@gmail.com",
+    "personDisplayName": "Brylle  Marcos",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8yYmZmYWY1Yi0xZDY3LTQzNzQtOWFjNy0zY2UwMDJiMDdjM2I",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T06:50:55.774Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYmY2NzJkMzEtZjkwMC00OGRiLTk5MjItNjFmOTVkZDMzZDA1OmMwMjg1MWIwLTI4Y2MtMTFlYy1iODcwLTFmZTcxNzBiMTI0MA",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYzAyODUxYjAtMjhjYy0xMWVjLWI4NzAtMWZlNzE3MGIxMjQw",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9iZjY3MmQzMS1mOTAwLTQ4ZGItOTkyMi02MWY5NWRkMzNkMDU",
+    "personEmail": "perezeugenee@gmail.com",
+    "personDisplayName": "Eugene Perez",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9iMDc5MmVhNi1mOWYxLTRlYzMtYTE2Ny0zNzA1NjlmZTFlZDA",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T06:51:15.916Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvZjBlZjk2OTctOWM1MC00OGUxLWFkODItZTQ3MmU4YjNmMzU4OmMwMjg1MWIwLTI4Y2MtMTFlYy1iODcwLTFmZTcxNzBiMTI0MA",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYzAyODUxYjAtMjhjYy0xMWVjLWI4NzAtMWZlNzE3MGIxMjQw",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mMGVmOTY5Ny05YzUwLTQ4ZTEtYWQ4Mi1lNDcyZThiM2YzNTg",
+    "personEmail": "vavancruz65@gmail.com",
+    "personDisplayName": "Darwin Ivan Cruz",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T06:51:38.452Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvNTdiYmQzZTctYzk1Mi00M2I3LTg0ZGItYjE2ODc5OTRjNWIxOmMwMjg1MWIwLTI4Y2MtMTFlYy1iODcwLTFmZTcxNzBiMTI0MA",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYzAyODUxYjAtMjhjYy0xMWVjLWI4NzAtMWZlNzE3MGIxMjQw",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81N2JiZDNlNy1jOTUyLTQzYjctODRkYi1iMTY4Nzk5NGM1YjE",
+    "personEmail": "rymon.vasallo@yahoo.com",
+    "personDisplayName": "rymon vasallo",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T06:52:05.531Z"
+}
+==============================================================================================
+SENT A MESSAGE:
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FU1NBR0UvZDhmZjAwYzAtMjhjZC0xMWVjLTg2M2YtMTNjNTVkZDdjMzg0",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYzAyODUxYjAtMjhjYy0xMWVjLWI4NzAtMWZlNzE3MGIxMjQw",
+    "roomType": "group",
+    "text": "I Love API",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85ZmE5NDg3Ny04ZjY0LTQ4YmEtYjdkYi1lMmE1OWQzMmM1Y2U",
+    "personEmail": "earl.andan53@gmail.com",
+    "created": "2021-10-09T06:55:11.564Z"
+}

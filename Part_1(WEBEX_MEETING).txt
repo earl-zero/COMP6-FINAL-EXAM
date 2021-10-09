@@ -1,0 +1,160 @@
+TOKEN:
+ZDViZTc0ZDYtNzA5NS00ZGQyLTg5MTQtMzczYWJiZWZlMzNlZjk5Yzc0ZjItNjFi_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b
+
+1ST CREATED MEETING:
+{
+  "id": "5b9d2d5a77d24cf7818527da5e98088b",
+  "meetingNumber": "26408060523",
+  "title": "Comp6",
+  "agenda": "COMP6 EXAMINATION",
+  "password": "smT6q8rrMY6",
+  "phoneAndVideoSystemPassword": "76867877",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-21T14:00:00Z",
+  "end": "2021-10-21T18:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85ZmE5NDg3Ny04ZjY0LTQ4YmEtYjdkYi1lMmE1OWQzMmM1Y2U",
+  "hostDisplayName": "Roland Earl Andan",
+  "hostEmail": "earl.andan53@gmail.com",
+  "hostKey": "953304",
+  "siteUrl": "meet153.webex.com",
+  "webLink": "https://meet153.webex.com/meet153/j.php?MTID=mc6799e0e5b471a64909360bc2aa7d28b",
+  "sipAddress": "26408060523@meet153.webex.com",
+  "dialInIpAddress": "210.4.202.4",
+  "enabledAutoRecordMeeting": false,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "26408060523",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/5b9d2d5a77d24cf7818527da5e98088b/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
+
+LIST OF 1st MEETING INVITEES:
+
+{
+  "id": "5b9d2d5a77d24cf7818527da5e98088b_3819761836",
+  "email": "perezeugenee@gmail.com",
+  "displayName": "Eugene Perez",
+  "coHost": false,
+  "meetingId": "5b9d2d5a77d24cf7818527da5e98088b"
+}
+
+{
+  "id": "5b9d2d5a77d24cf7818527da5e98088b_3819764926",
+  "email": "ardwindcritual@gmail.com",
+  "displayName": "Ardwin Ritual",
+  "coHost": false,
+  "meetingId": "5b9d2d5a77d24cf7818527da5e98088b"
+}
+
+{
+  "id": "5b9d2d5a77d24cf7818527da5e98088b_3819765476",
+  "email": "johnlenardbartolome39@gmail.com",
+  "displayName": "John Lenard Bartolome",
+  "coHost": false,
+  "meetingId": "5b9d2d5a77d24cf7818527da5e98088b"
+}
+
+
+2ND MEETING CREATED:
+{
+  "id": "5bf90a4bb2d940528daedd85948b51b2",
+  "meetingNumber": "26433359274",
+  "title": "API",
+  "agenda": "COMP6 EXAMINATION",
+  "password": "r8kFb48qSN6",
+  "phoneAndVideoSystemPassword": "78532487",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-21T15:00:00Z",
+  "end": "2021-10-21T17:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85ZmE5NDg3Ny04ZjY0LTQ4YmEtYjdkYi1lMmE1OWQzMmM1Y2U",
+  "hostDisplayName": "Roland Earl Andan",
+  "hostEmail": "earl.andan53@gmail.com",
+  "hostKey": "205935",
+  "siteUrl": "meet153.webex.com",
+  "webLink": "https://meet153.webex.com/meet153/j.php?MTID=ma05e4ac6794848bc63829b0d5a28b17f",
+  "sipAddress": "26433359274@meet153.webex.com",
+  "dialInIpAddress": "210.4.202.4",
+  "enabledAutoRecordMeeting": false,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "26433359274",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/5bf90a4bb2d940528daedd85948b51b2/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
+
+LIST OF 2ND MEETING INVITEES:
+{
+  "items": [
+    {
+      "id": "5bf90a4bb2d940528daedd85948b51b2_3819775036",
+      "email": "ardwindcritual@gmail.com",
+      "displayName": "Ardwin Ritual",
+      "coHost": false,
+      "meetingId": "5bf90a4bb2d940528daedd85948b51b2"
+    },
+    {
+      "id": "5bf90a4bb2d940528daedd85948b51b2_3819775031",
+      "email": "johnlenardbartolome39@gmail.com",
+      "displayName": "John Lenard Bartolome",
+      "coHost": false,
+      "meetingId": "5bf90a4bb2d940528daedd85948b51b2"
+    },
+    {
+      "id": "5bf90a4bb2d940528daedd85948b51b2_3819775041",
+      "email": "vavancruz65@gmail.com",
+      "displayName": "Darwin Ivan Cruz",
+      "coHost": false,
+      "meetingId": "5bf90a4bb2d940528daedd85948b51b2"
+    }
+  ]
+}
+
+AFTER DELETING A MEETING INVITEE AT API MEETING:
+{
+  "items": [
+    {
+      "id": "5bf90a4bb2d940528daedd85948b51b2_3819775036",
+      "email": "ardwindcritual@gmail.com",
+      "displayName": "Ardwin Ritual",
+      "coHost": false,
+      "meetingId": "5bf90a4bb2d940528daedd85948b51b2"
+    },
+    {
+      "id": "5bf90a4bb2d940528daedd85948b51b2_3819775031",
+      "email": "johnlenardbartolome39@gmail.com",
+      "displayName": "John Lenard Bartolome",
+      "coHost": false,
+      "meetingId": "5bf90a4bb2d940528daedd85948b51b2"
+    }
+  ]
+}

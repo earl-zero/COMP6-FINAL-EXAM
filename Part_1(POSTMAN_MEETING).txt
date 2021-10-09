@@ -1,0 +1,131 @@
+
+1ST MEETING: 
+{
+    "id": "37d5d458b9f445f993b391c6e7aa3a25",
+    "meetingNumber": "26432402086",
+    "title": "Comp6 (POSTMAN)",
+    "agenda": "COMP6 EXAMINATION",
+    "password": "RCtewd9GP47",
+    "phoneAndVideoSystemPassword": "72839394",
+    "meetingType": "meetingSeries",
+    "state": "active",
+    "timezone": "UTC",
+    "start": "2021-10-21T14:00:00Z",
+    "end": "2021-10-21T18:00:00Z",
+    "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85ZmE5NDg3Ny04ZjY0LTQ4YmEtYjdkYi1lMmE1OWQzMmM1Y2U",
+    "hostDisplayName": "Roland Earl Andan",
+    "hostEmail": "earl.andan53@gmail.com",
+    "hostKey": "612633",
+    "siteUrl": "meet153.webex.com",
+    "webLink": "https://meet153.webex.com/meet153/j.php?MTID=mf82b74f7248f767bb07dced9c8830737",
+    "sipAddress": "26432402086@meet153.webex.com",
+    "dialInIpAddress": "210.4.202.4",
+    "enabledAutoRecordMeeting": false,
+    "allowAuthenticatedDevices": false,
+    "enabledJoinBeforeHost": true,
+    "joinBeforeHostMinutes": 5,
+    "enableConnectAudioBeforeHost": true,
+    "excludePassword": false,
+    "publicMeeting": false,
+    "enableAutomaticLock": false,
+    "telephony": {
+        "accessCode": "26432402086",
+        "callInNumbers": [],
+        "links": [
+            {
+                "rel": "globalCallinNumbers",
+                "href": "/v1/meetings/37d5d458b9f445f993b391c6e7aa3a25/globalCallinNumbers",
+                "method": "GET"
+            }
+        ]
+    }
+}
+
+1ST MEETING INVITEES:
+{
+    "id": "37d5d458b9f445f993b391c6e7aa3a25_3819851766",
+    "email": "bryllekenji21@gmail.com",
+    "displayName": "Brylle  Marcos",
+    "coHost": false,
+    "meetingId": "37d5d458b9f445f993b391c6e7aa3a25"
+}
+{
+    "id": "37d5d458b9f445f993b391c6e7aa3a25_3819853316",
+    "email": "vavancruz65@gmail.com",
+    "displayName": "vavancruz65@gmail.com",
+    "coHost": false,
+    "meetingId": "37d5d458b9f445f993b391c6e7aa3a25"
+}
+{
+    "id": "37d5d458b9f445f993b391c6e7aa3a25_3819853341",
+    "email": "perezeugenee@gmail.com",
+    "displayName": "perezeugenee@gmail.com",
+    "coHost": false,
+    "meetingId": "37d5d458b9f445f993b391c6e7aa3a25"
+}
+
+2ND MEETING:
+{
+    "id": "181fd837baa8483eabcc52190e7f314b",
+    "meetingNumber": "26419605469",
+    "title": "API (POSTMAN)",
+    "agenda": "COMP6 EXAMINATION",
+    "password": "PwijBc5uu36",
+    "phoneAndVideoSystemPassword": "79452258",
+    "meetingType": "meetingSeries",
+    "state": "active",
+    "timezone": "UTC",
+    "start": "2021-10-21T15:00:00Z",
+    "end": "2021-10-21T17:00:00Z",
+    "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85ZmE5NDg3Ny04ZjY0LTQ4YmEtYjdkYi1lMmE1OWQzMmM1Y2U",
+    "hostDisplayName": "Roland Earl Andan",
+    "hostEmail": "earl.andan53@gmail.com",
+    "hostKey": "831576",
+    "siteUrl": "meet153.webex.com",
+    "webLink": "https://meet153.webex.com/meet153/j.php?MTID=m7fc66fc60553b0ac1bade7d738f7b8cc",
+    "sipAddress": "26419605469@meet153.webex.com",
+    "dialInIpAddress": "210.4.202.4",
+    "enabledAutoRecordMeeting": false,
+    "allowAuthenticatedDevices": false,
+    "enabledJoinBeforeHost": true,
+    "joinBeforeHostMinutes": 5,
+    "enableConnectAudioBeforeHost": true,
+    "excludePassword": false,
+    "publicMeeting": false,
+    "enableAutomaticLock": false,
+    "telephony": {
+        "accessCode": "26419605469",
+        "callInNumbers": [],
+        "links": [
+            {
+                "rel": "globalCallinNumbers",
+                "href": "/v1/meetings/181fd837baa8483eabcc52190e7f314b/globalCallinNumbers",
+                "method": "GET"
+            }
+        ]
+    }
+}
+
+2ND MEETING INVITEES:
+{
+    "id": "181fd837baa8483eabcc52190e7f314b_3819865441",
+    "email": "perezeugenee@gmail.com",
+    "displayName": "perezeugenee@gmail.com",
+    "coHost": false,
+    "meetingId": "181fd837baa8483eabcc52190e7f314b"
+}
+
+{
+    "id": "181fd837baa8483eabcc52190e7f314b_3819867816",
+    "email": "bryllekenji21@gmail.com",
+    "displayName": "Brylle  Marcos",
+    "coHost": false,
+    "meetingId": "181fd837baa8483eabcc52190e7f314b"
+}
+{
+    "id": "181fd837baa8483eabcc52190e7f314b_3819868211",
+    "email": "vavancruz65@gmail.com",
+    "displayName": "vavancruz65@gmail.com",
+    "coHost": false,
+    "meetingId": "181fd837baa8483eabcc52190e7f314b"
+}
